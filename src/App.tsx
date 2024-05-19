@@ -28,7 +28,8 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>Deployed my first application 🥳🥳🥳🥳🥳</h1>
+      <h1>Application running by docker</h1>
       <div className="card">
         <h3>{fact}</h3>
         <button onClick={fetchFact}>Fetch Fact</button>
